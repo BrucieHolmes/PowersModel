@@ -17,7 +17,7 @@ ACCESSING THE SOFTWARE
 1. Install the most up to date version of MATLAB
 
 2. Open GitHub using the link below
-https://github.com/BrucieHolmes/PowersModels
+https://github.com/BrucieHolmes/PowersModel
 
 3. Download the GitHub Repository by opening <Code> (green button) and clicking 'Download to Zip'.
 Save the *.zip folder on your PC.
