@@ -1,0 +1,37 @@
+****************************
+*		           * 
+* HOW TO USE POWERS MODELS *
+*		           *
+****************************
+
+------------------------------
+INTRODUCTION
+------------------------------
+The Powers Models software, written in MATLAB, is a free-to-use software to plot 1) the mortar compressive strength, 2) phase volumes and 3) Hydration and Porosity fractions
+
+Users input their cement oxide proportions, w/c ratio and temperature
+
+------------------------------
+ACCESSING THE SOFTWARE
+------------------------------
+1. Install the most up to date version of MATLAB
+
+2. Open GitHub using the link below
+https://github.com/BrucieHolmes/PowersModels
+
+3. Download the GitHub Repository by opening <Code> (green button) and clicking 'Download to Zip'.
+Save the *.zip folder on your PC.
+
+4. Double-click on the xScript_Powers_models.m script to open the prograame.
+
+5. Update the input.xlsx as necessary. 
+
+6. Update the w/c ratio and curing temperature (on lines 9 & 10).
+
+7. Save all changes and return to the xScript_Powers_models.m script
+
+------------------------------
+HOW TO UNDERTAKE AN ANALYSIS
+------------------------------
+1. Under 'EDITOR', click Run
+The figures will be plotted as Figures 1, 2 and 3.
